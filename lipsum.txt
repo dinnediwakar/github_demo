@@ -1,0 +1,26 @@
+Device Time
+Current Local Time	
+2020/8/21 12:36:41
+
+Device Information
+ODM	
+AM Telecom
+Product ID	
+JMR1140
+Serial Number	
+RAMMFDD00236116
+IMEI	
+911564202361161
+IMSI	
+405870085886550
+MSISDN	
++917818927407
+Firmware Version	
+Amtel_JMR1140_R12.07
+Firmware Creation Date	
+2017 / 07 / 08
+Hardware Version	
+Rev.1.0
+Primary Mac Id	
+40:C8:CB:03:9A:54
+Battery level	
